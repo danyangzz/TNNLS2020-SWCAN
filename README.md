@@ -1,17 +1,23 @@
 ## TNNLS2020-SWCAN
-This is the code for \n
-Self-weighted Clustering with Adaptive Neighbors \n
-Feiping Nie, Danyang Wu, Rong Wang, Xuelong Li \n
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020 \n
+This is the code for 
+
+Self-weighted Clustering with Adaptive Neighbors 
+
+Feiping Nie, Danyang Wu, Rong Wang, Xuelong Li 
+
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020 
 
 ### Code 
-  demo_data: glass_uni.mat \n
-  SWCAN_demo.m: demo_function \n
-  SWCAN_fun.m: SWCAN_function \n
+  demo_data: glass_uni.mat 
+  
+  SWCAN_demo.m: demo_function 
+  
+  SWCAN_fun.m: SWCAN_function 
 
 ### Citation
-If this code is useful to you, we sincerely hope that you can cite our paper \n
-[bibtex:] \n
+If this code is useful to you, we sincerely hope that you can cite our paper 
+
+[bibtex] 
 
 ```
 @article{nie2020self,
