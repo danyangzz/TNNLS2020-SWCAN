@@ -22,14 +22,14 @@ If this code is useful to you, we sincerely hope that you can cite our paper
 [bibtex] 
 
 ```
-@article{nie2020self,
-  title={Self-Weighted Clustering With Adaptive Neighbors},
+@ARTICLE{8974221,
   author={Nie, Feiping and Wu, Danyang and Wang, Rong and Li, Xuelong},
-  journal={IEEE transactions on neural networks and learning systems},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Self-Weighted Clustering With Adaptive Neighbors}, 
+  year={2020},
   volume={31},
   number={9},
-  pages={3428--3441},
-  year={2020},
-  publisher={IEEE}
-}
+  pages={3428-3441},
+  doi={10.1109/TNNLS.2019.2944565}}
+
 ```
