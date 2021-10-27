@@ -11,6 +11,7 @@ IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020
 If this code is useful to you, we sincerely hope that you can cite our paper
 
 [bibtex:]
+
 @article{nie2020self,
   title={Self-Weighted Clustering With Adaptive Neighbors},
   author={Nie, Feiping and Wu, Danyang and Wang, Rong and Li, Xuelong},
