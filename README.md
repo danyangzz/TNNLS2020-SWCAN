@@ -13,13 +13,13 @@ IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020 \n
 If this code is useful to you, we sincerely hope that you can cite our paper \n
 [bibtex:] \n
 
-@article{nie2020self,  \n
-  title={Self-Weighted Clustering With Adaptive Neighbors},  \n
-  author={Nie, Feiping and Wu, Danyang and Wang, Rong and Li, Xuelong},  \n
-  journal={IEEE transactions on neural networks and learning systems}, \n
-  volume={31},  \n
-  number={9},  \n
-  pages={3428--3441},  \n
-  year={2020},  \n
-  publisher={IEEE}  \n
+>> @article{nie2020self,
+  title={Self-Weighted Clustering With Adaptive Neighbors},
+  author={Nie, Feiping and Wu, Danyang and Wang, Rong and Li, Xuelong},
+  journal={IEEE transactions on neural networks and learning systems},
+  volume={31},
+  number={9},
+  pages={3428--3441},
+  year={2020},
+  publisher={IEEE}
 }
